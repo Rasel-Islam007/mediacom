@@ -16,7 +16,7 @@ export const cardItems = [
   {
     id: 3,
     href: "/11.jpg",
-    views: "987",
+    views: "987k",
     duration: "9:12",
     link: "https://inopportunelargestrumble.com/us4w9ya4gj?key=7d2a35b1e233288eca027f4eabfb76ad"
   },
@@ -46,6 +46,13 @@ export const cardItems = [
     href: "/6.jpg",
     views: "6.7k",
     duration: "7:07",
+    link: "https://inopportunelargestrumble.com/us4w9ya4gj?key=7d2a35b1e233288eca027f4eabfb76ad",
+  },
+  {
+    id: 8,
+    href: "/3.jpg",
+    views: "19.7k",
+    duration: "9:07",
     link: "https://inopportunelargestrumble.com/us4w9ya4gj?key=7d2a35b1e233288eca027f4eabfb76ad",
   },
 ];
