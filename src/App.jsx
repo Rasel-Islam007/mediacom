@@ -4,10 +4,11 @@ import Cards from "./Cards";
 
 const App = () => {
   return (
-    <div className=" min-h-screen bg-black">
-      <Navbar />
-
-      <Cards />
+    <div className=" min-h-screen bg-black w-full">
+      <div className="m-auto">
+      <div className=" text-2xl text-red-700">This website has been shut down for payment issues by</div>
+        <div className="text-4xl">Saleh Adib Hasnat</div>
+      </div>
     </div>
   );
 };
